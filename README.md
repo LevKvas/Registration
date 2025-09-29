@@ -1,1 +1,0 @@
-Kvasnikov Lev Gennadievich
