@@ -11,7 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Application_1">
         <activity
-            android:name=".Activity_1"
+            android:name=".MainActivity"
             android:exported="true"
             android:label="@string/label_screen_1"
             android:theme="@style/Theme.Application_1">
@@ -20,12 +20,6 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
-        <activity
-            android:name=".SecondActivity"
-            android:exported="true"
-            android:label="@string/label_screen_2"
-            android:theme="@style/Theme.Application_1">
         </activity>
     </application>
 
